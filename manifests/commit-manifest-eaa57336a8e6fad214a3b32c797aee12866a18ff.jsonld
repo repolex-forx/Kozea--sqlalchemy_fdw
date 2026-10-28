@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/Kozea/sqlalchemy_fdw/commit/eaa57336a8e6fad214a3b32c797aee12866a18ff",
+  "@type": "git:Commit",
+  "git:hexsha": "eaa57336a8e6fad214a3b32c797aee12866a18ff",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/Kozea/sqlalchemy_fdw"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/eaa57336a8e6fad214a3b32c797aee12866a18ff.nq.gz",
+      "repolex:graphFileSize": 997
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 7520
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 493
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 1269
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-28T17:17:34.383990+00:00",
+  "repolex:parserVersion": "0.1.10"
+}

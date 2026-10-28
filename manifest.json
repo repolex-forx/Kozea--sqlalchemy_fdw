@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "sqlalchemy_fdw",
+  "versions": [
+    {
+      "commit": "eaa57336a8e6fad214a3b32c797aee12866a18ff",
+      "parsed_at": "2026-10-28T17:17:34.383990+00:00",
+      "filetree": "filetree/eaa57336a8e6fad214a3b32c797aee12866a18ff.nq.gz",
+      "blobs": [
+        "blob/89b4a700e3afa636561a974dce189ab280515a91.nq.gz",
+        "blob/726587a3cf8731a429a55196d10bc379d470788e.nq.gz",
+        "blob/c811341b8aacc1b215b89e3fa0c521c8c0be16d6.nq.gz",
+        "blob/db1c287b5f380d8e21de0e52f9ef5897efdbeb86.nq.gz",
+        "blob/dcc1a49e6247fea43c356c1d9517934285f6b399.nq.gz",
+        "blob/2340e2c6ab527c23ded33f6d64f0bc88d82dcff7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
